@@ -1,0 +1,2 @@
+# Simulation_of_-basic_locomotor_patterns_of_a_robotic_agent_in_the_CoppeliaSim_simulation_environment
+Кипина А.В. Моделирование базовых локомоторных паттернов роботизированного агента в симуляционной среде CoppeliaSim
