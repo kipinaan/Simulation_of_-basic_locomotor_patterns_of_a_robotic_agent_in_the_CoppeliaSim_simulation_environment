@@ -1,0 +1,7 @@
+CoppeliaSim EDU --> v.4.9.0 64 bit
+
+coppeliasim_zmqremoteapi_client --> 2.0.4
+numpy --> 2.2.6
+torch --> 2.5.1
+scikit-learn --> 1.5.2
+matplotlib --> 3.9.2
