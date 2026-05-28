@@ -5,4 +5,26 @@
 
 ### Метрики
 
+| Модель      | MAE (рад) | MaxErr (рад) | R2     |
+|-------------|-----------|--------------|--------|
+| WalkingNet  | 0.001     | 0.2186       | 0.9978 |
+| CPGNet      | 0.001     | 0.2167       | 0.9978 |
+| WalkingLSTM | 0.0042    | 0.4695       | 0.9557 |
+
 ### Примеры
+
+1. Ходьба без нейросети
+
+<img width="400" height="247" alt="Ходьба без нейросети" src="https://github.com/user-attachments/assets/346dea7b-861d-4db8-a65a-60049b2bce3d" />
+
+2. Ходьба с WalkingNet
+
+<img width="400" height="247" alt="Ходьба с WalkingNet" src="https://github.com/user-attachments/assets/1ee6e390-2b06-48de-817d-881ae7bbd7e0" />
+
+3. Ходьба с CPGNet
+
+<img width="400" height="247" alt="Ходьба с CPG" src="https://github.com/user-attachments/assets/a3718f8e-ce44-4e4d-ac5c-1ed7c3d21b9a" />
+
+4. Ходьба с LSTMNet
+
+<img width="400" height="247" alt="Ходьба с LSTM" src="https://github.com/user-attachments/assets/c52d2aa6-413a-4685-9321-fad685412938" />
