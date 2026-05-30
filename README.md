@@ -28,3 +28,7 @@
 4. Ходьба с LSTMNet
 
 <img width="400" height="247" alt="Ходьба с LSTM" src="https://github.com/user-attachments/assets/c52d2aa6-413a-4685-9321-fad685412938" />
+
+5. Ходьба с LSTMNet + Phase
+
+<img width="400" height="284" alt="walk_lstm_phase" src="https://github.com/user-attachments/assets/83bee729-5e89-4bbc-b00f-21f74ed09a32" />
