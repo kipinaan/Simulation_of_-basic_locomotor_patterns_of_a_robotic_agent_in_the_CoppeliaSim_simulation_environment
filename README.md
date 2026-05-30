@@ -5,11 +5,7 @@
 
 ### Метрики
 
-| Модель      | MAE (рад) | MaxErr (рад) | R2     |
-|-------------|-----------|--------------|--------|
-| WalkingNet  | 0.001     | 0.2186       | 0.9978 |
-| CPGNet      | 0.001     | 0.2167       | 0.9978 |
-| WalkingLSTM | 0.0042    | 0.4695       | 0.9557 |
+<img width="702" height="346" alt="image" src="https://github.com/user-attachments/assets/c328e97f-47a3-4ee9-8fac-1a8ca63a0efa" />
 
 ### Примеры
 
